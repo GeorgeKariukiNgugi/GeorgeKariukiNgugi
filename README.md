@@ -11,7 +11,7 @@
 ## Languages
 
 <a><img align="left" alt="Java" width="30px" src="https://images.app.goo.gl/PLJmHE2yV1B1YLkp7" /><a/> 
-  <a><img align="left" alt="PHP" width="30px" src="https://images.app.goo.gl/HN2U9cPuBhoZvX6d6" /><a/>
+ <a><img align="left" alt="PHP" width="30px" src="https://www.php.net/images/logos/php-logo.svg" /><a/>
 <a><img align="left" alt="Kotlin" width="30px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" /><a/>
 <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
 <a><img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
