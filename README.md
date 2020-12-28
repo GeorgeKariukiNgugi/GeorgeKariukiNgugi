@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm George 👋
 
 <p align="center">
   <a href="http://www.georgekariuki.tk/">Portfolio</a> -
