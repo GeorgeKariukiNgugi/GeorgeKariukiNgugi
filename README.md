@@ -10,7 +10,7 @@
 -------------------------------------------------------------
 ## Languages
 
-<a><img align="left" alt="Java" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.V9ACnAqslzyMAy3OEZDXlQHaFj%26pid%3DApi&f=1&ipt=62dc4ae4658267aa8c4dc1ef7b50efc975168dd9af6cd541ceb53492e1a5e1ca&ipo=images" /><a/> 
+<a><img align="left"  width="30px"  alt="Java" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.V9ACnAqslzyMAy3OEZDXlQHaFj%26pid%3DApi&f=1&ipt=62dc4ae4658267aa8c4dc1ef7b50efc975168dd9af6cd541ceb53492e1a5e1ca&ipo=images" /><a/> 
  <a><img align="left" alt="PHP" width="30px" src="https://www.php.net/images/logos/php-logo.svg" /><a/>
 <a><img align="left" alt="Kotlin" width="30px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" /><a/>
 <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
