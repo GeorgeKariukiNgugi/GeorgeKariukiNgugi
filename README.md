@@ -35,10 +35,10 @@
 
 ## Tools
 <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" /><a/>
+<a><img align="left" alt="Android Studio" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zfG8FW1Z61TDDwJjGR2T-AAAAA%26pid%3DApi&f=1&ipt=4e834abc684ff9b254b6908bef6beb4f49886d8849742d6662449f82c68faa61&ipo=images)" /><a/>
 <a><img align="left" alt="Webstorm" width="30px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" /><a/>
-<a><img align="left" alt="PhpStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhpStorm_Logo.svg/1200px-PhpStorm_Logo.svg.png" /><a/>
-<a><img align="left" alt="IntelliJ Idea" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /><a/>
+<a><img align="left" alt="PhpStorm" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhpStorm_Logo.svg/1200px-PhpStorm_Logo.svg.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.UPqJNaj5CrnixWpBMN3IsgHaHa%26pid%3DApi&f=1&ipt=1130011ec5b62e8155e020677d31c5d31932ae84dd5838b6ef0de10e6f4e2941&ipo=images)" /><a/>
+<a><img align="left" alt="IntelliJ Idea" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.0rUDDYbkyvjppLqdvNKOiwHaFG%26pid%3DApi&f=1&ipt=18ea1cd079d08b8c7ba735616dab60da4eaa508a1c946fc4829d791f280095a9&ipo=images)" /><a/>
 
 
 <br />
