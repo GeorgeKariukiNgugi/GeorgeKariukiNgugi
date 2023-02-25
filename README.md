@@ -1,5 +1,5 @@
 ### Hi there I'm George 👋
-
+[![George's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GeorgeKariukiNgugi&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="http://www.georgekariuki.tk/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/george-kariuki-ngugi-709a14148/">Linkedin</a> - 
